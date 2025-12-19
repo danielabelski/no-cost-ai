@@ -106,7 +106,8 @@
 | --- | --- | --- |
 | [runwayml.com](https://runwayml.com/ ) |`Gen-4` a creative assistant built by Runway, helps generate images, videos, and stories. | Unlimited |
 | [pollinations.ai](https://pollinations.ai/) |`openai`, `sur`, `sur-mistral`, `claude`, `mistral`, `mistral-large`, `command-r`, `unity`, `rtist`, `searchgpt`| Unlimited|
-| [perchance.org/wtr90dexsn](https://perchance.org/wtr90dexsn) |Uses `pollinations` api | `Unlimited` only image gen |
+| [Vheer.com](https://vheer.com/) | `vheer's propritary ai` | Unlimited, No Watermark|
+| [perchance.org/wtr90dexsn](https://perchance.org/wtr90dexsn) |Uses `pollinations` api | `Unlimited` only image gen, No Watermark |
 | [fotor.com](https://www.fotor.com/) |`Unknown` Uses ai to edit picture option is available | Unlimited editing |
 
 
