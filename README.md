@@ -3,6 +3,7 @@
 ### Spend 0$ on Ai-Models!
 
 #### A living index for developers, researchers & curious builders contributions is welcome & appriciated!
+*No signup Picture/Video/Chat generation [img-seven-sage](https://img-seven-sage.vercel.app/)*
 
 ![Free‑AI](https://img.shields.io/badge/Free--AI-List-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
@@ -59,7 +60,6 @@
 | [yupp.ai/leaderboard](https://yupp.ai/leaderboard) | Based on User Feedback from Feedback from Yupp.ai Usage|
 | [lmarena.ai/leaderboard](https://lmarena.ai/leaderboard) | Based on Crowd Sourced Voting |
 
-> ### No signup Picture/Video/Chat generation [img-seven-sage](https://img-seven-sage.vercel.app/)
 
 ---
 
