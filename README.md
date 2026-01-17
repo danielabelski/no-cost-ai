@@ -59,6 +59,7 @@
 | [yupp.ai/leaderboard](https://yupp.ai/leaderboard) | Based on User Feedback from Feedback from Yupp.ai Usage|
 | [lmarena.ai/leaderboard](https://lmarena.ai/leaderboard) | Based on Crowd Sourced Voting |
 
+> ### No signup Picture/Video/Chat generation [img-seven-sage](https://img-seven-sage.vercel.app/)
 
 ---
 
